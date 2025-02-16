@@ -1,7 +1,7 @@
 <h1 align="center">Hi there👋, I'm Dhruv</h1>
 <h3 align="center">Data Analyst</h3>
 
-[Profile view counter on GitHub](https://komarev.com/ghpvc/?username=perisicnikola37)
+[Profile view counter on GitHub](https://komarev.com/ghpvc/?username=dhruvvchaudhary)
 
 - 🎓 I’m currently learning **Power BI, Python, SQL, Advanced Excel**
 
