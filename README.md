@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [fjdsbfjadsf](fjdsbfjadsf)
 
-- 📧 How to reach me **dhruvc01234@gmail.com**
+- 📧 Reach me at **dhruvc01234@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
