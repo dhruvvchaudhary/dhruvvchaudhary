@@ -5,7 +5,7 @@
 
 - 💡 I’m currently learning **Power BI, SQL, Advanced Excel, Python.**
 
-- 👨‍💻 All of my projects are available at [fjdsbfjadsf](fjdsbfjadsf)
+- 👨‍💻 All of my projects are available at (https://codebasics.io/portfolio/Dhruv-Chaudhary)
 
 - 📧 Reach me at **dhruvc01234@gmail.com**
 
