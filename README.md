@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Dhruv Chaudhary</h1>
-<h3 align="center">A problem solver through Data Analytics.</h3>
+<h3 align="center">A python coder and a problem solver through Data Analytics.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhruvvchaudhary&label=Profile%20views&color=0e75b6&style=flat" alt="dhruvvchaudhary" /> </p>
 
 - 💡 I’m currently learning **Power BI, SQL, Advanced Excel, Python.**
 
-- 👨‍💻 All of my projects are available at [My Portfolio](https://codebasics.io/portfolio/Dhruv-Chaudhary)
+- 👨‍💻 All my Data Analytics projects are available at [My Portfolio](https://codebasics.io/portfolio/Dhruv-Chaudhary)
 
 - 📧 Reach me at **dhruvc01234@gmail.com**
 
