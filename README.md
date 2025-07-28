@@ -9,7 +9,7 @@
 
 - 📧 Reach me at **dhruvc01234@gmail.com**
 
-- For my python projects, please take a look at **Repositories**
+- For my python projects, please take a look at **Pinned Repositories**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
